@@ -1,0 +1,24 @@
+/* style sheet for recipes website page */
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    background-color: goldenrod;
+    font-weight: bold;
+}
+
+#recipes {
+    background-color: burlywood;
+    border-style: solid;
+    border-color: brown;
+    margin: 32px;
+    padding: 16px;
+    font-size: 18px;
+    width: 150px;
+}
+
+.meal {
+    margin-left: 8px;
+}

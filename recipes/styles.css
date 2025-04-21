@@ -1,0 +1,30 @@
+/* stylessheet for recipes */
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: goldenrod;
+    padding: 8px;
+}
+
+img {
+    display: block;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#homelink {
+    border-style: solid;
+    border-width: 2px;
+    border-color: brown;
+    padding: 4px;
+    margin: auto;
+    background-color: burlywood;
+    font-size: 18px;
+}
